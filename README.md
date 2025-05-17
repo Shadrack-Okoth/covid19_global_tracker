@@ -79,9 +79,15 @@ COVID19_Global_Data_Tracker/
 └── README.md                            # Project documentation
 ## 📤 Exporting the Project
 To export the notebook as PDF or HTML:
-jupyter nbconvert COVID19_Global_Data_Tracker.ipynb --to pdf
-⚠️ Requires installation of Pandoc and LaTeX (e.g., xelatex).
+- jupyter nbconvert COVID19_Global_Data_Tracker.ipynb --to pdf
+- ⚠️ Requires installation of Pandoc and LaTeX (e.g., xelatex).
 ## 🔗 Project Link
+https://github.com/Shadrack-Okoth/covid19_global_tracker.git
+## Acknowledgements
+- Our World in Data – Source of the COVID-19 dataset
+- Plotly – For interactive visualizations
+- Matplotlib/Seaborn – For statistical charts
+- PLP Academy for a guided Project 
 
 
 
