@@ -35,6 +35,12 @@ The **COVID-19 Global Data Tracker** is a data analysis project designed to moni
 ### 🔧 Prerequisites
 
 Install the required libraries using pip:
+```bash
+pip install pandas numpy matplotlib seaborn plotly
+
+Make sure Jupyter is installed:
+pip install notebook
+pip install notebook
 ## 🚀 Steps to Run
 ### 1. Clone the Repository
 git clone https://github.com/your-username/COVID19_Global_Data_Tracker.git
