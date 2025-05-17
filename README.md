@@ -40,7 +40,8 @@ pip install pandas numpy matplotlib seaborn plotly
 
 Make sure Jupyter is installed:
 pip install notebook
-pip install notebook
+pip install notebook```
+
 ## 🚀 Steps to Run
 ### 1. Clone the Repository
 git clone https://github.com/your-username/COVID19_Global_Data_Tracker.git
