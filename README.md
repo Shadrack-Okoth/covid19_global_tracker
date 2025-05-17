@@ -64,8 +64,13 @@ Explore the outputs, charts, and insights step by step.
 - Death rates varied significantly across regions, hinting at differences in healthcare capacity.
 - Vaccination rollout showed rapid growth in high-income countries.
 - Several low-income countries had suspiciously low case and death counts, possibly due to underreporting or limited testing.
-
-
+## Reflection
+- This project was an excellent opportunity to:
+- Work with large, real-world datasets
+- Apply data cleaning and manipulation techniques
+- Develop meaningful visualizations and interpretations
+- Enhance understanding of global health data trends
+- Present data-driven insights through code and narrative
 
 
 
