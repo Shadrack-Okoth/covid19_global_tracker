@@ -59,11 +59,11 @@ Explore the outputs, charts, and insights step by step.
 - **Heatmap:** Correlation between key COVID-19 indicators
 - **Choropleth Map:** Total cases per country on the latest date (interactive)
 ## 🔍 Key Insights
--United States, India, and Brazil consistently reported the highest number of total cases.
--Countries with higher testing rates often showed higher case detection rates.
--Death rates varied significantly across regions, hinting at differences in healthcare capacity.
--Vaccination rollout showed rapid growth in high-income countries.
--Several low-income countries had suspiciously low case and death counts, possibly due to underreporting or limited testing.
+- United States, India, and Brazil consistently reported the highest number of total cases.
+- Countries with higher testing rates often showed higher case detection rates.
+- Death rates varied significantly across regions, hinting at differences in healthcare capacity.
+- Vaccination rollout showed rapid growth in high-income countries.
+- Several low-income countries had suspiciously low case and death counts, possibly due to underreporting or limited testing.
 
 
 
