@@ -71,6 +71,19 @@ Explore the outputs, charts, and insights step by step.
 - Develop meaningful visualizations and interpretations
 - Enhance understanding of global health data trends
 - Present data-driven insights through code and narrative
+## 📝 File Structure
+COVID19_Global_Data_Tracker/
+│
+├── COVID19_Global_Data_Tracker.ipynb    # Main notebook with full analysis
+├── owid-covid-data.csv                  # Raw dataset from Our World In Data
+└── README.md                            # Project documentation
+## 📤 Exporting the Project
+To export the notebook as PDF or HTML:
+jupyter nbconvert COVID19_Global_Data_Tracker.ipynb --to pdf
+⚠️ Requires installation of Pandoc and LaTeX (e.g., xelatex).
+## 🔗 Project Link
+
+
 
 
 
